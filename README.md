@@ -1,0 +1,1 @@
+![A cover image](cover.png)
