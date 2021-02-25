@@ -1,1 +1,1 @@
-![A cover image](cover.png)
+![A cover image](assets/cover.png)
