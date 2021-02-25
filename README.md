@@ -1,1 +1,1 @@
-![A cover image](assets/cover_dark.png)
+![A cover image](assets/cover_light.png)
