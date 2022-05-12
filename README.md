@@ -1,4 +1,4 @@
-| ![A cover image](assets/header.png) |
+| ![A cover image](assets/banner.png) |
 | ------ |
 
 ## Ankit Raj (he/him)
