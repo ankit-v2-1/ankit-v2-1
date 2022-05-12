@@ -1,4 +1,4 @@
-| ![A cover image](assets/git-header.png) |
+| ![A cover image](assets/header.png) |
 | ------ |
 
 ## Ankit Raj (he/him)
