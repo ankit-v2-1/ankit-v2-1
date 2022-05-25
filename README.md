@@ -19,8 +19,6 @@ When I'm not coding I like trying on different kinds of food like who doesn't. e
 <h3  >Languages, Frameworks and Tools:</h3>
 
 <p >
-     <a href="https://github.com/topics/html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40" /></a>
-     <a href="https://github.com/topics/css" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40" /></a>
      <a href="https://github.com/topics/c" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-128/c-58-1175247.png" alt="c" width="40" height="40" /></a>
      <a href="https://github.com/topics/cpp" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40" /></a>
      <a href="https://github.com/topics/python"target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg"alt="python"width="40"height="40"/></a>
