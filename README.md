@@ -11,10 +11,10 @@
 
 
 
-**Welcome!** I'm Ankit. I'm in the final year of learning Computer Science Engineering at NIT karnataka, India. On my github you will find projects based on my undergraduation courses.
+**Welcome!** Yea so lemme tell you about me. I'm Ankit. I'm in the final year of learning Computer Science Engineering at NIT karnataka, India. On my github you will find projects based on my undergraduation courses.
 <br>
 
-When I'm not coding I enjoy planting, reading self-help books and I'm a big sucker of underrated movies.
+When I'm not coding I like trying on different kinds of food like who doesn't. enjoy planting, reading self-help books and I'm a big sucker for Sunsets.
 <br>
 <h3  >Languages, Frameworks and Tools:</h3>
 
@@ -24,5 +24,12 @@ When I'm not coding I enjoy planting, reading self-help books and I'm a big suck
      <a href="https://github.com/topics/c" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-128/c-58-1175247.png" alt="c" width="40" height="40" /></a>
      <a href="https://github.com/topics/cpp" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40" /></a>
      <a href="https://github.com/topics/python"target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg"alt="python"width="40"height="40"/></a>
+     <a href="https://github.com/topics/javascript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="git" width="40" height="40" /></a>
+     <a href="https://github.com/topics/typescript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="git" width="40" height="40" /></a>
+     <a href="https://github.com/topics/react" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="git" width="40" height="40" /></a>
+     <a href="https://github.com/topics/express" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="git" width="40" height="40" /></a>
      <a href="https://github.com/topics/git" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40" /></a>
+      <a href="https://github.com/topics/aws" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="git" width="40" height="40" /></a>
 </p>
+
+Thank you for coming to my Ted Talk.
