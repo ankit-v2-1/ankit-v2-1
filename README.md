@@ -28,6 +28,7 @@ When I'm not coding I like trying on different kinds of food like who doesn't. e
      <a href="https://github.com/topics/express" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="git" width="40" height="40" /></a>
      <a href="https://github.com/topics/git" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40" /></a>
      <a href="https://github.com/topics/aws" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="git" width="40" height="40" /></a>
+     <a href="https://github.com/topics/figma" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="git" width="40" height="40" /></a>
      <a href="https://github.com/topics/vim" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="git" width="40" height="40" /></a>
 
 </p>
