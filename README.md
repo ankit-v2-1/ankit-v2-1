@@ -8,6 +8,7 @@
 <a href="https://dribbble.com/ankit_v2" target="_blank"> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribble"/></a>
 <a href="https://open.spotify.com/user/a2wrs7rt0jsizxnhve0fn8160?si=eVARyvxQSxOWxHeCVQ8Fiw" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt=""/></a>
 <a href="" target="_blank"> <img src="" alt=""/></a>
+![](https://hit.yhype.me/github/profile?user_id=47549118)
 
 
 
@@ -32,5 +33,6 @@ When I'm not coding I like trying on different kinds of food like who doesn't. e
      <a href="https://github.com/topics/vim" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="git" width="40" height="40" /></a>
 
 </p>
+
 
 Thank you for coming to my Ted Talk.
