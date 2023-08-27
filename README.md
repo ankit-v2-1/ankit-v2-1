@@ -1,4 +1,4 @@
-| ![A cover image](assets/git-header.png) |
+| ![A cover image](https://public-bucket-mumbai.s3.ap-south-1.amazonaws.com/github/git-header.png) |
 | ------ |
 
 ## Ankit Raj (he/him)
@@ -25,12 +25,12 @@ When I'm not coding I like trying on different kinds of food like who doesn't. e
      <a href="https://github.com/topics/python"target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg"alt="python"width="40"height="40"/></a>
      <a href="https://github.com/topics/javascript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="git" width="40" height="40" /></a>
      <a href="https://github.com/topics/typescript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="git" width="40" height="40" /></a>
-     <a href="https://github.com/topics/react" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="git" width="40" height="40" /></a>
-     <a href="https://github.com/topics/express" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="git" width="40" height="40" /></a>
+     <a href="https://github.com/topics/vue" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="git" width="40" height="40" /></a>
      <a href="https://github.com/topics/git" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40" /></a>
-     <a href="https://github.com/topics/aws" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="git" width="40" height="40" /></a>
-     <a href="https://github.com/topics/figma" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="git" width="40" height="40" /></a>
-     <a href="https://github.com/topics/vim" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="git" width="40" height="40" /></a>
+     <a href="https://github.com/topics/firebase" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" alt="firbase logo" width="40" height="40" /></a>
+     <a href="https://github.com/topics/aws" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws logo" width="40" height="40" /></a>
+     <a href="https://github.com/topics/docker" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker logo" width="40" height="40" /></a>
+     <a href="https://github.com/topics/vim" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="vim logo" width="40" height="40" /></a>
 
 </p>
 
