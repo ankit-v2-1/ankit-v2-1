@@ -1,4 +1,4 @@
-| ![A cover image](https://public-bucket-mumbai.s3.ap-south-1.amazonaws.com/github/git-header.png) |
+| ![A cover image](https://github.com/ankit-v2-1/ankit-v2-1/assets/47549118/d5d9e5ea-4cb3-47ad-8ce4-bb902fe0048b) |
 | ------ |
 
 ## Ankit Raj (he/him)
